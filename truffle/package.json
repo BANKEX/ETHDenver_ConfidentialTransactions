@@ -1,0 +1,37 @@
+{
+  "name": "bulletproof-solidity",
+  "version": "1.0.0",
+  "description": "Solidity verifiers for Bulletproofs and parameters generators",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BANKEX/ETHDenver_ConfidentialTransactions"
+  },
+  "keywords": [
+    "BANKEX",
+    "crypto",
+    "zk-proofs",
+    "bulletproofs"
+  ],
+  "author": "swasilyev, shamatar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BANKEX/ETHDenver_ConfidentialTransactions/issues"
+  },
+  "homepage": "https://github.com/BANKEX/ETHDenver_ConfidentialTransactions#readme",
+  "dependencies": {
+    "truffle": "^4.0.6",
+    "zeppelin-solidity": "1.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2"
+  }
+}

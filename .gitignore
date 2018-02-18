@@ -1,0 +1,5 @@
+.vscode
+target
+gradle/wrapper
+truffle/node_modules
+JSProver/node_modules
